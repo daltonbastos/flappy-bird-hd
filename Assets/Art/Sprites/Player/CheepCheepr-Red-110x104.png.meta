@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: 3d31d949a1abb0543ab5ae5035ca88a3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b93c68e0c44e14ca057c452021a7bb
+      internalID: -1264077758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1692b85891414eae278f8f352234b
+      internalID: -1860628199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dfe4748b683e14a98c12b127250a21
+      internalID: -1021019357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcfbf2c191bee74aab549517bbc4704
+      internalID: 1446352076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab456671c808e94b8dc8e06998e788d
+      internalID: -446150254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_5
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203ba8ed13041d34d9474f80bd6dfc91
+      internalID: 913980241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_6
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6090abc3ebfdb409c87fee69bd08d2
+      internalID: -1180859118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfa27f7c03a8a841a57aa10290e972f
+      internalID: 1201619433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_8
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da6eb3b47ed3f6418feb988e20986ae
+      internalID: -474888370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 421
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb0832bf7fc634ea56fc84e25f5aaf
+      internalID: 799838220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f9ff1005fcb644bc6f776f5cdd0cd
+      internalID: 239267353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e507e1e76333c478ef8fc45ab5638f
+      internalID: 734488182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6a40f9f3dd3e49b1e2292f6b7150e
+      internalID: 778394455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e18c7060fea66f4892b8d49031948be
+      internalID: 1374262877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a99365b0b0462042ae803cd371b86f0
+      internalID: 596957415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_15
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34f1525173afb3498c31c7f26298ca5
+      internalID: 2004239730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b378f891afad87c4ebe48a6630ce85ea
+      internalID: 872108912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c589868e48bc49a100503a4abae26
+      internalID: -1815904798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_18
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db56f11dc26438b4ebd00d8a1d8ef088
+      internalID: -829663214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 316
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a33d3969279734a935cfaa987fb759
+      internalID: -249916999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d9625a91addc94f8c58fd40edf36a7
+      internalID: -804986865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde63e1a85c2d9f47910781300c09c0b
+      internalID: 1220269112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee86e459b1b6d644858797bcbf5f458
+      internalID: -1804970234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b529a5b80bb5940bcd36d920f787da
+      internalID: -1922051998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_24
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e68a5dba304c64e8181db6d7d65904
+      internalID: 584094117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_25
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10df5739f276ba44913761b6bf2fe81
+      internalID: 1403664631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_26
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808d8e5e8a1bad54ab0cc95c2014134f
+      internalID: -1541517776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_27
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f6264174c9794d9813406bf49b742
+      internalID: -1187003934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_28
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3356fadd4c1a0c54f84431055c3e2790
+      internalID: 1572986525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 211
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ddacdfd57af26479ef9b29178722b5
+      internalID: -1701168348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e1ca328e0f2694f95f5b74c943b914
+      internalID: -734913185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf285b1fb9fa948977e0f6e1605d07
+      internalID: 849192312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8d5bbb297854e4ea15638f137a4c1b
+      internalID: -1710936069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f023177813a241a2eb7df8f7f1a0d
+      internalID: 211504704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_34
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34445bb1eb792a4ea7ad133615e4620
+      internalID: -1314183385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_35
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d065c627c1e626048a8903f3be9c9578
+      internalID: -1299443026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_36
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a435eedc9b6a2e742808000453c15819
+      internalID: -1946028116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_37
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2754f745f9511c941869ecc006f6eec8
+      internalID: -1638521232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_38
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8934f1fae07500f46a5aa099d44be5e2
+      internalID: -1235196427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 106
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41be01e91f33a9c4eabbecd693e19fa0
+      internalID: 136472682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfde332e891b2e41a035b19af623664
+      internalID: -1464911880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde8b6810c952c14ba1f390789736f71
+      internalID: 655164275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_42
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5d3b06ed5965409dec6886ae67636
+      internalID: -1908867558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940188321ad5b54e996466116bb2e9c
+      internalID: 945570453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_44
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc05b88f778a444aa39104d8e6e186a
+      internalID: 1593369657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_45
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b181b49fe4b9040aaf2d9d96060980
+      internalID: -787701731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_46
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0548e2eb4daccf4c98289ed17357821
+      internalID: 32001402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_47
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b311a75bfb0eb0642a3c249ae9d280df
+      internalID: -984695708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_48
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8511067976a90a40a6d0caf966ad7ec
+      internalID: -869273116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheepCheepr-Red-110x104_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385d57d890419041b66436a5a8269a6
+      internalID: 1877368431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CheepCheepr-Red-110x104_0: -1264077758
+      CheepCheepr-Red-110x104_1: -1860628199
+      CheepCheepr-Red-110x104_10: 239267353
+      CheepCheepr-Red-110x104_11: 734488182
+      CheepCheepr-Red-110x104_12: 778394455
+      CheepCheepr-Red-110x104_13: 1374262877
+      CheepCheepr-Red-110x104_14: 596957415
+      CheepCheepr-Red-110x104_15: 2004239730
+      CheepCheepr-Red-110x104_16: 872108912
+      CheepCheepr-Red-110x104_17: -1815904798
+      CheepCheepr-Red-110x104_18: -829663214
+      CheepCheepr-Red-110x104_19: -249916999
+      CheepCheepr-Red-110x104_2: -1021019357
+      CheepCheepr-Red-110x104_20: -804986865
+      CheepCheepr-Red-110x104_21: 1220269112
+      CheepCheepr-Red-110x104_22: -1804970234
+      CheepCheepr-Red-110x104_23: -1922051998
+      CheepCheepr-Red-110x104_24: 584094117
+      CheepCheepr-Red-110x104_25: 1403664631
+      CheepCheepr-Red-110x104_26: -1541517776
+      CheepCheepr-Red-110x104_27: -1187003934
+      CheepCheepr-Red-110x104_28: 1572986525
+      CheepCheepr-Red-110x104_29: -1701168348
+      CheepCheepr-Red-110x104_3: 1446352076
+      CheepCheepr-Red-110x104_30: -734913185
+      CheepCheepr-Red-110x104_31: 849192312
+      CheepCheepr-Red-110x104_32: -1710936069
+      CheepCheepr-Red-110x104_33: 211504704
+      CheepCheepr-Red-110x104_34: -1314183385
+      CheepCheepr-Red-110x104_35: -1299443026
+      CheepCheepr-Red-110x104_36: -1946028116
+      CheepCheepr-Red-110x104_37: -1638521232
+      CheepCheepr-Red-110x104_38: -1235196427
+      CheepCheepr-Red-110x104_39: 136472682
+      CheepCheepr-Red-110x104_4: -446150254
+      CheepCheepr-Red-110x104_40: -1464911880
+      CheepCheepr-Red-110x104_41: 655164275
+      CheepCheepr-Red-110x104_42: -1908867558
+      CheepCheepr-Red-110x104_43: 945570453
+      CheepCheepr-Red-110x104_44: 1593369657
+      CheepCheepr-Red-110x104_45: -787701731
+      CheepCheepr-Red-110x104_46: 32001402
+      CheepCheepr-Red-110x104_47: -984695708
+      CheepCheepr-Red-110x104_48: -869273116
+      CheepCheepr-Red-110x104_49: 1877368431
+      CheepCheepr-Red-110x104_5: 913980241
+      CheepCheepr-Red-110x104_6: -1180859118
+      CheepCheepr-Red-110x104_7: 1201619433
+      CheepCheepr-Red-110x104_8: -474888370
+      CheepCheepr-Red-110x104_9: 799838220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
